@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @princeAnalyst-ML
-- 👀 I’m interested in Machine Learning and AI
-- 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me on email
-
-<!---
-princeAnalyst-ML/princeAnalyst-ML is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi All
+- I am Dishan Otieno a student at Dedan Kimathi   University of Techonology studying BSc in Mechatronics Engineering. Besides my career am studying Data Science and Artificial Intelligence and I have been able to work on a few projects. I am passionate about new techology and how is sloves the current complex challenges across the globe. I am always open to challenges and ways to expound my knowledge.
+- Looking forward to learn more AI techniques to help Africa grow technologically.
+- Happy Learning.
